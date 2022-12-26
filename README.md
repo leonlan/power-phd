@@ -1,5 +1,5 @@
 # Power PhD
-Useful resources to power-up your PhD.
+Useful resources to power up your PhD.
 
 ## Interview
 - [PhD Interview Prep](https://twitter.com/sidgairo18/status/1606029297537257472)
