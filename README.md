@@ -9,3 +9,6 @@ Useful resources to power up your PhD.
 
 ## Presenting
 - [10 Tips to Make Conference Talks Suck Less](https://www.morling.dev/blog/ten-tips-make-conference-talks-suck-less/)
+
+## Writing
+- [Read your paper backwards when editting](https://twitter.com/random_walker/status/1581674801101303810?s=20)
