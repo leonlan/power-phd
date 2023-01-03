@@ -18,4 +18,5 @@ Useful resources to power up your PhD.
 
 ## Books
 - [The A-Z of the PhD Trajectory](https://link.springer.com/book/10.1007/978-3-319-77425-1)
+
 [comment]: # (Comprehensive guide on the general PhD trajectory. I find it too verbose, but it's a good reference.)
