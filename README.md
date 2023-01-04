@@ -9,6 +9,7 @@ Useful resources to power up your PhD.
 
 ## Presenting
 - [10 Tips to Make Conference Talks Suck Less](https://www.morling.dev/blog/ten-tips-make-conference-talks-suck-less/)
+- [Martin Schmidt: How to give a talk](https://static1.squarespace.com/static/5a8198f7d74cffd8f0272059/t/62d6f00d9d944216cffb3f97/1658253338777/how-to-give-a-talk.pdf)
 
 ## Writing
 - [Read your paper backwards when editting](https://twitter.com/random_walker/status/1581674801101303810?s=20)
