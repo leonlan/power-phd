@@ -7,6 +7,10 @@ Useful resources to power up your PhD.
 ## Reference management
 - [Zotero research guide](https://research.library.gsu.edu/c.php?g=115275&p=750658)
 
+## Programming
+- [Missing Semester](https://missing.csail.mit.edu/)
+- [The Alan Turing Institute's Research Software Engineering course](https://github.com/alan-turing-institute/rse-course)
+
 ## Productivity habits
 - [5 effective habits for PhD students](https://twitter.com/raulpacheco/status/1576353106710831104?s=12&t=7JVkTty89Q-klR5WCIk5aQ)
 
