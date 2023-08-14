@@ -23,6 +23,7 @@ Useful resources to power up your PhD.
   - Ten easily implementable ways to improve your academic paper.
 - [Read your paper backwards when editting](https://twitter.com/random_walker/status/1581674801101303810?s=20)
 - [Martin's guide to paper grammar](https://www.extragalactic.info/~mjh/paper-grammar.html): on voice, pronouns, tenses and more. 
+- [Academic phrasebank](https://www.phrasebank.manchester.ac.uk/): examples of commonly used phrases organized according to the main sections of a paper.
 
 ## Networking
 - [How to write a cold email](https://sriramk.com/coldemail) and [How to cold email a professor for information](https://www.academictransfer.com/en/blog/how-to-cold-email-a-professor-for-information/)
