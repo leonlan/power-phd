@@ -28,6 +28,9 @@ Useful resources to power up your PhD.
 ## Networking
 - [How to write a cold email](https://sriramk.com/coldemail) and [How to cold email a professor for information](https://www.academictransfer.com/en/blog/how-to-cold-email-a-professor-for-information/)
 
+## Tools
+- [Mathpix](https://mathpix.com/): handy little tool to convert images and PDFs to raw LaTeX. 
+
 ## Books
 - [The A-Z of the PhD Trajectory](https://link.springer.com/book/10.1007/978-3-319-77425-1)
 
