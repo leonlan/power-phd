@@ -19,11 +19,11 @@ Useful resources to power up your PhD.
 - [Martin Schmidt: How to give a talk](https://static1.squarespace.com/static/5a8198f7d74cffd8f0272059/t/62d6f00d9d944216cffb3f97/1658253338777/how-to-give-a-talk.pdf)
 
 ## Writing
-- [Write good papers - Daniel Lemire](https://lemire.me/blog/rules-to-write-a-good-research-paper/)
-  - Ten easily implementable ways to improve your academic paper.
+- [Write good papers - Daniel Lemire](https://lemire.me/blog/rules-to-write-a-good-research-paper/): Ten easy-to-implement ways to improve your academic paper.
 - [Read your paper backwards when editting](https://twitter.com/random_walker/status/1581674801101303810?s=20)
-- [Martin's guide to paper grammar](https://www.extragalactic.info/~mjh/paper-grammar.html): on voice, pronouns, tenses and more. 
-- [Academic phrasebank](https://www.phrasebank.manchester.ac.uk/): examples of commonly used phrases organized according to the main sections of a paper.
+- [Martin's guide to paper grammar](https://www.extragalactic.info/~mjh/paper-grammar.html): On voice, pronouns, tenses and more. 
+- [Academic phrasebank](https://www.phrasebank.manchester.ac.uk/): Examples of commonly used phrases organized according to the main sections of a paper.
+- [Grammarly](https://app.grammarly.com/): A freemium grammar and spelling checker. 
 
 ## Networking
 - [How to write a cold email](https://sriramk.com/coldemail) and [How to cold email a professor for information](https://www.academictransfer.com/en/blog/how-to-cold-email-a-professor-for-information/)
