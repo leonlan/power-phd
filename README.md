@@ -7,9 +7,11 @@ Useful resources to power up your PhD.
 ## Reference management
 - [Zotero research guide](https://research.library.gsu.edu/c.php?g=115275&p=750658)
 
-## Programming
+## Research software engineering
 - [Missing Semester](https://missing.csail.mit.edu/)
+- [Scientific Python Library Development Guide](https://learn.scientific-python.org/development/)
 - [The Alan Turing Institute's Research Software Engineering course](https://github.com/alan-turing-institute/rse-course)
+- [Software Carpentry](https://software-carpentry.org/lessons/)
 
 ## Productivity habits
 - [5 effective habits for PhD students](https://twitter.com/raulpacheco/status/1576353106710831104?s=12&t=7JVkTty89Q-klR5WCIk5aQ)
@@ -25,6 +27,9 @@ Useful resources to power up your PhD.
 - [Academic phrasebank](https://www.phrasebank.manchester.ac.uk/): Examples of commonly used phrases organized according to the main sections of a paper.
 - [Grammarly](https://app.grammarly.com/): A freemium grammar and spelling checker. 
 
+
+## Visualization
+- [Introduction to color schemes - Paul Tol](https://personal.sron.nl/~pault/)
 ## Networking
 - [How to write a cold email](https://sriramk.com/coldemail) and [How to cold email a professor for information](https://www.academictransfer.com/en/blog/how-to-cold-email-a-professor-for-information/)
 
