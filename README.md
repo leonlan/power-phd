@@ -26,6 +26,7 @@ Useful resources to power up your PhD.
 - [Martin's guide to paper grammar](https://www.extragalactic.info/~mjh/paper-grammar.html): On voice, pronouns, tenses and more. 
 - [Academic phrasebank](https://www.phrasebank.manchester.ac.uk/): Examples of commonly used phrases organized according to the main sections of a paper.
 - [Grammarly](https://app.grammarly.com/): A freemium grammar and spelling checker. 
+- [The big list of academic writing tips - Nicholas Mamo](https://nicholasmamo.github.io/posts/big-list-academic-writing-tips/)
 
 
 ## Visualization
