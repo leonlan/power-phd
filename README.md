@@ -12,6 +12,7 @@ Useful resources to power up your PhD.
 - [Scientific Python Library Development Guide](https://learn.scientific-python.org/development/)
 - [The Alan Turing Institute's Research Software Engineering course](https://github.com/alan-turing-institute/rse-course)
 - [Software Carpentry](https://software-carpentry.org/lessons/)
+- [Level Up Your Python](https://henryiii.github.io/level-up-your-python/notebooks/0%20Intro.html#): A course in _intermediate_ Python programming
 
 ## Productivity habits
 - [5 effective habits for PhD students](https://twitter.com/raulpacheco/status/1576353106710831104?s=12&t=7JVkTty89Q-klR5WCIk5aQ)
@@ -31,6 +32,7 @@ Useful resources to power up your PhD.
 
 ## Visualization
 - [Introduction to color schemes - Paul Tol](https://personal.sron.nl/~pault/)
+
 ## Networking
 - [How to write a cold email](https://sriramk.com/coldemail) and [How to cold email a professor for information](https://www.academictransfer.com/en/blog/how-to-cold-email-a-professor-for-information/)
 
