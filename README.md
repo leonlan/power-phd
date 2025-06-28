@@ -13,6 +13,7 @@ Useful resources to power up your PhD.
 - [The Alan Turing Institute's Research Software Engineering course](https://github.com/alan-turing-institute/rse-course)
 - [Software Carpentry](https://software-carpentry.org/lessons/)
 - [Level Up Your Python](https://henryiii.github.io/level-up-your-python/notebooks/0%20Intro.html#): A course in _intermediate_ Python programming
+- [Software Engineering for Scientific Computing](https://henryiii.github.io/se-for-sci/content/intro.html)
 
 ## Productivity habits
 - [5 effective habits for PhD students](https://twitter.com/raulpacheco/status/1576353106710831104?s=12&t=7JVkTty89Q-klR5WCIk5aQ)
@@ -22,6 +23,7 @@ Useful resources to power up your PhD.
 - [Martin Schmidt: How to give a talk](https://static1.squarespace.com/static/5a8198f7d74cffd8f0272059/t/62d6f00d9d944216cffb3f97/1658253338777/how-to-give-a-talk.pdf)
 
 ## Writing
+- [LEADERSHIP LAB: The Craft of Writing Effectively ](https://www.youtube.com/watch?v=vtIzMaLkCaM): High-level principles of writing academic papers.
 - [Write good papers - Daniel Lemire](https://lemire.me/blog/rules-to-write-a-good-research-paper/): Ten easy-to-implement ways to improve your academic paper.
 - [Read your paper backwards when editting](https://twitter.com/random_walker/status/1581674801101303810?s=20)
 - [Martin's guide to paper grammar](https://www.extragalactic.info/~mjh/paper-grammar.html): On voice, pronouns, tenses and more. 
