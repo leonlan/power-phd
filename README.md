@@ -14,6 +14,7 @@ Useful resources to power up your PhD.
 - [Software Carpentry](https://software-carpentry.org/lessons/)
 - [Level Up Your Python](https://henryiii.github.io/level-up-your-python/notebooks/0%20Intro.html#): A course in _intermediate_ Python programming
 - [Software Engineering for Scientific Computing](https://henryiii.github.io/se-for-sci/content/intro.html)
+- [Python Developer Tooling Handbook](https://pydevtools.com/handbook/): Handbook to help you understand the ecosystem of tools used to make Python development easier and more productive.
 
 ## Productivity habits
 - [5 effective habits for PhD students](https://twitter.com/raulpacheco/status/1576353106710831104?s=12&t=7JVkTty89Q-klR5WCIk5aQ)
