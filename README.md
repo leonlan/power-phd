@@ -13,7 +13,7 @@ Useful resources to power up your PhD.
 - [The Alan Turing Institute's Research Software Engineering course](https://github.com/alan-turing-institute/rse-course)
 - [Software Carpentry](https://software-carpentry.org/lessons/)
 - [Level Up Your Python](https://henryiii.github.io/level-up-your-python/notebooks/0%20Intro.html#): A course in _intermediate_ Python programming
-- [Software Engineering for Scientific Computing](https://henryiii.github.io/se-for-sci/content/intro.html)
+- [Software Engineering for Scientific Computing](https://se-for-sci.github.io/content/intro.html)
 - [Python Developer Tooling Handbook](https://pydevtools.com/handbook/): Handbook to help you understand the ecosystem of tools used to make Python development easier and more productive.
 
 ## Productivity habits
